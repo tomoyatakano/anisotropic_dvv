@@ -1,7 +1,6 @@
 # anisotropic_dvv
 
-This repository provides the data and scripts for the analyses in "Anisotropic seismic velocity variations in response to different orientations of tidal deformations 
-". 
+This repository provides the data and scripts for the analyses in "Anisotropic seismic velocity variations in response to different orientations of tidal deformations". 
 
 Citation: Takano, T., Nishimura, T., & Nakahara, H. (2023). Anisotropic seismic velocity variations in response to different orientations of tidal deformations. Geophysical Journal International, ggad386.
 
