@@ -14,3 +14,5 @@ script for estimating tidal strain at each azimuth
 
 codes/circular_corr.py:
 script for computing correlation coeficient based on a circular statistics
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8038742.svg)](https://doi.org/10.5281/zenodo.8038742)
